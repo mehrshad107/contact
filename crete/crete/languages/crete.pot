@@ -1,0 +1,2721 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Crete\n"
+"POT-Creation-Date: 2022-01-20 02:49+0600\n"
+"PO-Revision-Date: 2022-01-20 02:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:21
+msgid "Oops! That page "
+msgstr ""
+
+#: 404.php:21
+msgid "can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid "40 + 4 ="
+msgstr ""
+
+#: 404.php:32
+msgid "404"
+msgstr ""
+
+#: 404.php:36
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:52
+msgid "We are Sorry For This Inconvenience! Don&#39;t Worry!!"
+msgstr ""
+
+#: 404.php:53
+msgid "Our"
+msgstr ""
+
+#: 404.php:53
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:53
+msgid ""
+"will Guide You Through All of Our Awesome Things, Or You Can Have A Quick "
+"Look at Our Posts!!!"
+msgstr ""
+
+#: comments.php:30 comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31 comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:66
+msgid "Share Your Valuable Opinions"
+msgstr ""
+
+#. translators: %s is product title
+#: comments.php:67 inc/vendor/woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:69
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Write Your Comment...."
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:76 inc/vendor/woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: comments.php:78 comments.php:98
+#: inc/vendor/woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: comments.php:80
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:83
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:92 comments.php:94
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:100
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:105
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:106
+msgid "Website"
+msgstr ""
+
+#: comments.php:111
+msgid "Let us know what you have to say:"
+msgstr ""
+
+#: comments.php:112
+msgid ""
+"Express your thoughts, idea or write a feedback by clicking here & start an "
+"awesome comment"
+msgstr ""
+
+#: comments.php:115
+msgid "Please Post Your Comments & Reviews"
+msgstr ""
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr ""
+
+#: dokan/store-header.php:13
+msgid "Store Open"
+msgstr ""
+
+#: dokan/store-header.php:14
+msgid "Store Closed"
+msgstr ""
+
+#: dokan/store.php:43
+msgid "No products were found of this seller!"
+msgstr ""
+
+#: functions.php:77
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Account Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Light gray"
+msgstr ""
+
+#: functions.php:146
+msgid "Medium gray"
+msgstr ""
+
+#: functions.php:151
+msgid "Dark gray"
+msgstr ""
+
+#: functions.php:157
+msgid "Purple"
+msgstr ""
+
+#: functions.php:163
+msgid "Dark Blue"
+msgstr ""
+
+#: functions.php:169
+msgid "Red"
+msgstr ""
+
+#: functions.php:175
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:181
+msgid "Green"
+msgstr ""
+
+#: functions.php:187
+msgid "White"
+msgstr ""
+
+#: functions.php:195
+msgid "Small"
+msgstr ""
+
+#: functions.php:200
+msgid "Normal"
+msgstr ""
+
+#: functions.php:205
+msgid "Large"
+msgstr ""
+
+#: functions.php:210
+msgid "Huge"
+msgstr ""
+
+#: functions.php:245
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:247
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/admin/admin.php:12 inc/admin/merlin/class-merlin.php:714
+#: inc/admin/crete-welcome.php:43
+msgid "Welcome"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:302
+#: inc/admin/merlin/merlin-config.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:304
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:306
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:307
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:310
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:316
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:322
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-tgm-plugin-activation.php:345
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-tgm-plugin-activation.php:350
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-tgm-plugin-activation.php:355
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-tgm-plugin-activation.php:359
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:360
+#: inc/admin/class-tgm-plugin-activation.php:887
+#: inc/admin/class-tgm-plugin-activation.php:2593
+#: inc/admin/class-tgm-plugin-activation.php:3640
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:361
+#: inc/admin/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:362
+#: inc/admin/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:366
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/admin/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:369
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:370
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:371
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:574
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:575
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:692
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:994
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:994
+#: inc/admin/class-tgm-plugin-activation.php:997
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:997
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:1181
+#: inc/admin/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/admin/class-tgm-plugin-activation.php:2042
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2333
+#: inc/admin/merlin/class-merlin.php:1107
+msgid "Required"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2336
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2352
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2355
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2358
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2375
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2379
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2381
+msgid "Active"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2387
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2390
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2393
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/admin/class-tgm-plugin-activation.php:2402
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2452
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2456
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2460
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2542
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2550
+msgid "Installed version:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2558
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2570
+msgid "Available version:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2593
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2607
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2608
+msgid "Source"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2609
+msgid "Type"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2613
+msgid "Version"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2614
+#: inc/vendor/woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2663
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2668
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2674
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2744
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2777
+#: inc/admin/merlin/merlin-config.php:49 inc/admin/merlin/merlin-config.php:50
+#: inc/admin/merlin/merlin-config.php:51
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2783
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2786
+#: inc/admin/merlin/merlin-config.php:53
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2819
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2862
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2968
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2994
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3558
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/admin/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3567
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3569
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3569
+#: inc/admin/class-tgm-plugin-activation.php:3577
+msgid "Show Details"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3569
+#: inc/admin/class-tgm-plugin-activation.php:3577
+msgid "Hide Details"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3570
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3578
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:454
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:600
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:605
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:721
+msgid "Child"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:727
+msgid "License"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:735
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:745 inc/admin/merlin/class-merlin.php:2033
+msgid "Content"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:751
+msgid "Ready"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:856
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:950
+msgid "The license activation step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1020
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1108
+msgid "req"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1148
+msgid "The plugin installation step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1184 inc/admin/merlin/merlin-config.php:46
+#: inc/template-functions.php:156
+#: inc/vendor/woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1234
+msgid "Select Demo"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1272
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1352
+msgid "The final step has been displayed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1429
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1446
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1467
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1476
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1489
+msgid "The license activation was performed with the following results"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1535
+#: inc/admin/merlin/class-merlin.php:1576
+msgid "An error occurred, please try again."
+msgstr ""
+
+#. translators: Expiration date
+#: inc/admin/merlin/class-merlin.php:1548
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1554
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1558
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1563
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: EDD Item Name
+#: inc/admin/merlin/class-merlin.php:1568
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1572
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1666
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1697
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1731
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1733
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1762
+msgid "Activating"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1778
+msgid "Updating"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1794
+#: inc/admin/merlin/class-merlin.php:1810
+#: inc/admin/merlin/class-merlin.php:2036
+#: inc/admin/merlin/class-merlin.php:2049
+#: inc/admin/merlin/class-merlin.php:2062
+#: inc/admin/merlin/class-merlin.php:2075
+#: inc/admin/merlin/class-merlin.php:2088
+#: inc/admin/merlin/class-merlin.php:2101
+#: inc/admin/merlin/class-merlin.php:2114
+#: inc/admin/merlin/class-merlin.php:2157
+msgid "Installing"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1802
+msgid "A plugin with the following data will be processed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1814
+msgid "A plugin with the following data was processed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1823
+#: inc/admin/merlin/class-merlin.php:2037
+#: inc/admin/merlin/class-merlin.php:2050
+#: inc/admin/merlin/class-merlin.php:2063
+#: inc/admin/merlin/class-merlin.php:2076
+#: inc/admin/merlin/class-merlin.php:2089
+#: inc/admin/merlin/class-merlin.php:2102
+#: inc/admin/merlin/class-merlin.php:2115
+msgid "Success"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1846
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1851
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1862
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1904
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1915
+msgid "Error"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1929
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:1934
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2034
+msgid "Demo content data."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2035
+#: inc/admin/merlin/class-merlin.php:2048
+#: inc/admin/merlin/class-merlin.php:2061
+#: inc/admin/merlin/class-merlin.php:2074
+#: inc/admin/merlin/class-merlin.php:2087
+#: inc/admin/merlin/class-merlin.php:2100
+#: inc/admin/merlin/class-merlin.php:2113
+msgid "Pending"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2046
+msgid "Widgets"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2047
+msgid "Sample widgets data."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2059
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2060
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2072
+msgid "Options"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2073
+msgid "Sample theme options data."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2085
+msgid "Redux Options"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2086
+msgid "Redux framework options."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2098 inc/admin/crete-welcome.php:45
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2099
+msgid "CSF Framework Options."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2111
+msgid "After import setup"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2112
+msgid "After import setup."
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2141
+msgid "The revolution slider import was executed"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2178
+msgid "The home page was set"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2188
+msgid "The blog page was set"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2203
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: inc/admin/merlin/class-merlin.php:2227
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-csf-importer.php:31
+msgid "The CSF Framework data was imported"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-downloader.php:84
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr ""
+
+#: inc/admin/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/admin/merlin/marlin-demo.php:122
+msgid ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall Elementor as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:38
+msgid "Crete Setup"
+msgstr ""
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/admin/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:43
+msgid "Disable crete wizard"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:45
+msgid "Skip"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:47
+msgid "Start"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:52
+msgid "Import"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:54
+msgid "Later"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/admin/merlin/merlin-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/admin/merlin/merlin-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/admin/merlin/merlin-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:62
+msgid "License key"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:65
+msgid "Need help?"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/admin/merlin/merlin-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:69
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:70
+msgid ""
+"This wizard will set up crete theme, install plugins, and import content. "
+"It is optional & should take only a few minutes."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:71
+msgid ""
+"You may have already run crete theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:73
+msgid "Install Crete Child Theme"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:74
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:77
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:82
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:85 inc/admin/merlin/merlin-config.php:89
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:87
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme.Choose Your Preferred demo from below."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:91
+msgid "All done. Have fun!"
+msgstr ""
+
+#. translators: Theme Author
+#: inc/admin/merlin/merlin-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:95
+msgid "Extras"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:96
+msgid "View your website"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:97
+msgid "Explore WordPress"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:98
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/admin/merlin/merlin-config.php:99
+msgid "Start Customizing"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:51
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:64
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:244
+msgid "Content import start error: "
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:276
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:375
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:500
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:525
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:588
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:781
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:791
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:869
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:883
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:915
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1833
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:920
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:960
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1105
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1604
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1625
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1629
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1794
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1838
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1897
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1906
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1958
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1986
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2024
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2029
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2043
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2048
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2085
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2130
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2135
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2157
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2161
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2175
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2179
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2196
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2227
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2237
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2247
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2255
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2288
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2298
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2333
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: inc/admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2342
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: inc/admin/required-plugin.php:70
+msgid "Elementor"
+msgstr ""
+
+#: inc/admin/required-plugin.php:76
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/required-plugin.php:82
+msgid "SB Instagram Feed"
+msgstr ""
+
+#: inc/admin/required-plugin.php:90
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/admin/required-plugin.php:96
+msgid "Yith Wishlist"
+msgstr ""
+
+#: inc/admin/required-plugin.php:103
+msgid "Yith Filter"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:33
+msgid "Welcome to Crete"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:35
+msgid "Crete theme is now installed and ready to use!"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:47
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:54
+msgid ""
+"Before you get started, please be sure to always check out documentation "
+"Which Included In the theme folder or from <a href=\"https://teconce.com/"
+"support/docs/crete/\" target=\"_blank\">Website</a>. We outline all kinds "
+"of good information and provide you with all the details you need to use "
+"crete."
+msgstr ""
+
+#: inc/admin/crete-welcome.php:57
+msgid ""
+"If you are unable to find your answer in our documentation, please contact "
+"us via  <a href=\"https://teconce.com/support/user-portal/\" target=\"_blank"
+"\">submit a ticket</a> with your purchase code, site CPanel, and admin login "
+"info."
+msgstr ""
+
+#: inc/admin/crete-welcome.php:60
+msgid ""
+"We are very happy to help you and you will get the reply from us  faster "
+"than you expected."
+msgstr ""
+
+#: inc/admin/crete-welcome.php:64
+msgid "Note: Please Install All Required Plugins Before Install Demo !"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:68
+msgid "Thank you for using"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/admin/crete-welcome.php:68
+msgid "Crete"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:68
+msgid "theme!"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:68
+msgid "Powered by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/admin/crete-welcome.php:68
+msgid "Teconce"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:78
+msgid "WP Version"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:83
+msgid "Language"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:88
+msgid "WP Memory Limit"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:93
+#, php-format
+msgid "%s - We recommend setting memory to at least 96MB. %s."
+msgstr ""
+
+#: inc/admin/crete-welcome.php:93
+msgid "More info"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:103
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:107
+#, php-format
+msgid ""
+"%s - We recommend setting PHP max_input_vars to at least 3000. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:115
+msgid "PHP Version"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:137
+msgid "Secure Connection(HTTPS)"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:155
+msgid "Theme Name"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:160
+msgid "Author Name"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:165
+msgid "Current Version"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:170
+msgid "Text Domain"
+msgstr ""
+
+#: inc/admin/crete-welcome.php:175
+msgid "Child Theme"
+msgstr ""
+
+#: inc/bootstrap-navwalker.php:791
+msgid "Add a menu"
+msgstr ""
+
+#: inc/breadcrumb.php:30
+msgid "Our Blog"
+msgstr ""
+
+#: inc/breadcrumb.php:31 inc/breadcrumb.php:33
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:71
+msgid "<span class=\"active\">Category ></span> "
+msgstr ""
+
+#: inc/breadcrumb.php:73
+msgid "Tag: "
+msgstr ""
+
+#: inc/breadcrumb.php:86
+msgid "Error 404"
+msgstr ""
+
+#: inc/template-functions.php:155
+#: inc/vendor/woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid " "
+msgstr ""
+
+#. translators: 1: list of categories.
+#. translators: 1: list of tags.
+#: inc/template-tags.php:66 inc/template-tags.php:83
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:102
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:119 template-parts/content-page.php:49
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: Filter: verb "to filter"
+#: inc/vendor/woocommerce/archive-product.php:84
+#: inc/vendor/woocommerce/archive-product.php:87
+#: inc/vendor/woocommerce/content-widget-price-filter.php:30
+#: inc/vendor/woocommerce/loop/filter-button.php:17
+msgid "Filter"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-empty.php:28
+msgid "Return to shop"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-totals.php:30
+#: inc/vendor/woocommerce/cart/cart-totals.php:31
+#: inc/vendor/woocommerce/cart/cart.php:118
+#: inc/vendor/woocommerce/checkout/review-order.php:24
+#: inc/vendor/woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-totals.php:52
+#: inc/vendor/woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+#: inc/vendor/woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart-totals.php:98
+#: inc/vendor/woocommerce/cart/cart-totals.php:99
+#: inc/vendor/woocommerce/checkout/review-order.php:103
+#: inc/vendor/woocommerce/myaccount/my-orders.php:17
+#: inc/vendor/woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:49
+#: inc/vendor/woocommerce/cart/mini-cart.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:68
+#: inc/vendor/woocommerce/checkout/form-pay.php:27
+#: inc/vendor/woocommerce/checkout/review-order.php:23
+#: inc/vendor/woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:83
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:96
+#: inc/vendor/woocommerce/global/quantity-input.php:26
+msgid "Quantity"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:134
+msgid "Update cart"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:164
+msgid "Coupon"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:164
+#: inc/vendor/woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cart.php:164
+#: inc/vendor/woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/mini-cart.php:102
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:50
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:55
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: inc/vendor/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/cart-errors.php:25
+msgid "Return to cart"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/form-shipping.php:57
+#: inc/vendor/woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/order-receipt.php:25
+#: inc/vendor/woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/order-receipt.php:29
+#: inc/vendor/woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/order-receipt.php:33
+#: inc/vendor/woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/order-receipt.php:38
+#: inc/vendor/woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: inc/vendor/woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/thankyou.php:40
+#: inc/vendor/woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: inc/vendor/woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr ""
+
+#: inc/vendor/woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: inc/vendor/woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#: inc/vendor/woocommerce/content-widget-price-filter.php:32
+msgid "Price:"
+msgstr ""
+
+#: inc/vendor/woocommerce/content-widget-reviews.php:31
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/form-login.php:34
+#: inc/vendor/woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/form-login.php:38
+#: inc/vendor/woocommerce/myaccount/form-login.php:46
+#: inc/vendor/woocommerce/myaccount/form-login.php:105
+msgid "Password"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/form-login.php:47
+#: inc/vendor/woocommerce/myaccount/form-login.php:54
+msgid "Remember me"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/form-login.php:51
+#: inc/vendor/woocommerce/myaccount/form-login.php:35
+#: template-parts/header/header-default-nav.php:49
+msgid "Login"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/form-login.php:54
+#: inc/vendor/woocommerce/myaccount/form-login.php:60
+msgid "Lost your password?"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: inc/vendor/woocommerce/global/quantity-input.php:26
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/vendor/woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/vendor/woocommerce/loop/no-products-found.php:21
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: inc/vendor/woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: inc/vendor/woocommerce/loop/result-count.php:27
+msgid "Showing the single result"
+msgstr ""
+
+#. translators: %d: total results
+#: inc/vendor/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: inc/vendor/woocommerce/loop/result-count.php:35
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/loop/sale-flash.php:27
+msgid "Sale"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: inc/vendor/woocommerce/myaccount/dashboard.php:28
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/dashboard.php:36
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/downloads.php:40
+#: inc/vendor/woocommerce/myaccount/orders.php:101
+msgid "Browse products"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/downloads.php:42
+msgid "No downloads available yet."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-add-payment-method.php:52
+#: inc/vendor/woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-add-payment-method.php:58
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:43
+#: inc/vendor/woocommerce/myaccount/form-login.php:98
+msgid "Email address"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-address.php:20
+#: inc/vendor/woocommerce/myaccount/my-address.php:26
+#: inc/vendor/woocommerce/myaccount/my-address.php:35
+#: inc/vendor/woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-address.php:20
+#: inc/vendor/woocommerce/myaccount/my-address.php:27
+#: inc/vendor/woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:42
+msgid "Username or email address"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:68
+msgid "Log in"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:82
+#: inc/vendor/woocommerce/myaccount/form-login.php:119
+msgid "Register"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:91
+msgid "Username"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:111
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:119
+msgid "Create an Account"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-login.php:137
+msgid "New Here? Create an Account"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/lost-password-confirmation.php:23
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/my-orders.php:63
+#: inc/vendor/woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: inc/vendor/woocommerce/myaccount/my-orders.php:75
+#: inc/vendor/woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/myaccount/orders.php:103
+msgid "No order has been made yet."
+msgstr ""
+
+#. translators: 1: credit card type 2: last 4 digits
+#: inc/vendor/woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#. translators: 1: order number 2: order date 3: order status
+#: inc/vendor/woocommerce/myaccount/view-order.php:28
+#: inc/vendor/woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/view-order.php:37
+#: inc/vendor/woocommerce/order/tracking.php:41
+msgid "Order updates"
+msgstr ""
+
+#: inc/vendor/woocommerce/myaccount/view-order.php:43
+#: inc/vendor/woocommerce/order/tracking.php:47
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:25
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:27
+msgid "Order ID"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:27
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:28
+msgid "Billing email"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:28
+msgid "Email you used during checkout."
+msgstr ""
+
+#: inc/vendor/woocommerce/order/form-tracking.php:31
+msgid "Track"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-details-customer.php:34
+#: inc/vendor/woocommerce/order/order-details-customer.php:52
+#: inc/vendor/woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: inc/vendor/woocommerce/order/order-downloads.php:62
+msgid "Never"
+msgstr ""
+
+#: inc/vendor/woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr ""
+
+#: inc/vendor/woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: inc/vendor/woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/vendor/woocommerce/product-style/content-quick-view.php:36
+#: inc/vendor/woocommerce/single-product/product-image.php:66
+msgid "Awaiting product image"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: inc/vendor/woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s is product title
+#: inc/vendor/woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+#: inc/vendor/woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/meta.php:34
+msgid "Category:</span>"
+msgid_plural "Categories: </span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/single-product/meta.php:36
+msgid "Tag: </span>"
+msgid_plural "Tags: </span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:34
+msgid "Close (Esc)"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:35
+msgid "Share"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:36
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:37
+msgid "Zoom in/out"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:49
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/photoswipe.php:50
+msgid "Next (arrow right)"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/price.php:31 inc/woocommerce.php:332
+msgid "Out of stock"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/rating.php:40
+#, php-format
+msgid "View %s review"
+msgid_plural "View all %s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/vendor/woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: inc/woocommerce.php:275
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:279
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:440
+msgid "Compare"
+msgstr ""
+
+#: inc/woocommerce.php:468
+msgid "Add to Compare"
+msgstr ""
+
+#: inc/woocommerce.php:495
+msgid "Quick View"
+msgstr ""
+
+#: inc/crete_comment.php:11
+msgid "Pingback:"
+msgstr ""
+
+#: inc/crete_comment.php:26
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/crete_comment.php:27
+msgid "at"
+msgstr ""
+
+#: inc/crete_comment.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/crete_comment.php:37
+msgid "Reply"
+msgstr ""
+
+#: index.php:26
+msgid "Blog"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:35 template-parts/content.php:67
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single-post.php:104
+msgid "Written by"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:53
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/footer/footer-default.php:7
+msgid "© 2021 Crete. All Rights Reserved"
+msgstr ""
+
+#: template-parts/header/header-default-nav.php:67
+msgid "Logout"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://teconce.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Mordern WordPress Woocommerce Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://teconce.com/about"
+msgstr ""
